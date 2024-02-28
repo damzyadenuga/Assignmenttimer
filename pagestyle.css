@@ -1,0 +1,71 @@
+.sec{
+     
+        width: 50%;
+        float: left;
+        height: 400px;
+        border-radius: 30px;
+      
+        
+}
+.first{
+        padding: 60px;
+        margin: 0%;
+        height: 400px;
+        float: left;
+        
+}
+.third{
+        
+           width: 50%;
+           float: left;
+           height: 500px;
+           padding-top: 0px;
+           
+   }
+   .counter{
+        display: flex;
+        float: left;
+        
+   }
+   #Time{
+        padding: 20px;
+        font-size: 30px;
+        
+   }
+   .body{
+     margin: 0px;
+     
+     
+   }
+   #days p{
+        font-size: 40px;
+   }
+   #hours p{
+        font-size: 40px;
+
+   }
+  
+   #seconds p{
+        font-size: 40px;
+   }
+  
+   #minutes p{
+        font-size: 30px;
+   }
+   .topnav{
+     width: 100%;
+     background-color: azure;
+    overflow: hidden;
+     color: black;
+     padding: 10px;
+     display: block;
+margin: 0%;
+   }
+   .topnav a{
+      float:left;
+     padding: 10px;
+     font-family: arial sans-serif;
+   }
+   .p {
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   }
